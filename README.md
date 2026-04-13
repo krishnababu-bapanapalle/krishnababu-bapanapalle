@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm B Krishnababu
 
-<!--
-**krishnababu-bapanapalle/krishnababu-bapanapalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Power BI Developer**  
+📊 Skilled in: MSSQL | Power BI | Power Query | DAX  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on: **Sales Analysis Project (SQL + Power BI)**
+- ✅ Writing tests using **pytest** & implementing CI with **GitHub Actions**
+- 🌱 Learning: **Caching, Async Programming, System Design Basics**
+- 🌐 Portfolio / LinkedIn: [krishnapbi](https://www.linkedin.com/in/krishnapbi)
+
+---
+
+## 🛠️ Tech Stack
+- **Databases:** MSSQL, MySQL  
+- **BI Tools:** Power BI, Power Query, DAX  
+- **Version Control:** Git, GitHub  
+- **CI/CD:** GitHub Actions  
+
+---
+
+## 📊 Projects
+### 🔹 Sales Analysis Project
+- Built interactive dashboards using **Power BI**
+- Used **SQL** for data extraction & transformation
+- Created KPIs and insights for business decision-making
+
+---
+
+## 📈 GitHub Stats
+![Krishnababu's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnapbi&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/krishnapbi
+
+---
+
+⭐ *Always eager to learn new technologies and improve data-driven solutions!*
