@@ -89,16 +89,13 @@ Power BI | SQL | Power Query | DAX
 # 📫 Connect With Me
 
 - GitHub: https://github.com/krishnababu-bapanapalle
-- LinkedIn: Add Your LinkedIn URL Here
+- LinkedIn: https://www.linkedin.com/in/krishnapbi
 
 ---
 
 # ⚡ Fun Fact
 
 I enjoy building dashboards and converting raw data into meaningful business insights 📊
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/krishnapbi
 
 ---
 
