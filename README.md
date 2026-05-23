@@ -1,34 +1,101 @@
-# 👋 Hi, I'm B. Krishna Babu
+# Hi 👋, I'm Krishna Babu
 
-💼 **Power BI Developer**  
-Skilled in **MSSQL, Power BI, Power Query, and DAX**
+## 🚀 Data Analyst | Power BI Developer | SQL Enthusiast
 
----
-
-## 🚀 About Me
-- 🔭 Currently working on: **Sales Analysis Project (SQL + Power BI)**
-- ✅ Writing tests using **pytest** and implementing CI with **GitHub Actions**
-- 🌱 Currently learning: **Power Apps & Power Automate**
-- 🌐 Portfolio / LinkedIn:  
-  👉 https://www.linkedin.com/in/krishnapbi
+Passionate about transforming raw data into meaningful business insights using Power BI, SQL, Excel, and Data Visualization.
 
 ---
 
-## 🛠️ Tech Stack
-- 💾 Databases: MSSQL, MySQL  
-- 📊 BI Tools: Power BI, Power Query  
-- 🧠 Languages: DAX, SQL  
-- ⚙️ Tools: Git, GitHub Actions  
+# 💫 About Me
+
+- 🌱 Currently learning **Advanced Power BI, DAX, Power Query, and SQL**
+- 📊 Interested in **Data Analytics and Business Intelligence**
+- 💡 Building real-time **Power BI Dashboard Projects**
+- 🎯 Goal: Become a professional **Data Analyst / Power BI Developer**
+- 🌐 Portfolio / LinkedIn: 👉 https://www.linkedin.com/in/krishnapbi
 
 ---
 
-## 📈 Projects
-### 📊 Sales Analysis Dashboard
-- Built using **SQL + Power BI**
-- Created interactive dashboards for business insights
-- Implemented DAX measures for KPIs and trends
+# 🛠 Skills & Technologies
+
+## 📊 Data Analytics
+- Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Data Cleaning
+- Dashboard Design
+
+## 💾 Database
+- SQL
+- Joins
+- CTEs
+- Window Functions
+- Subqueries
+- Stored Procedures
+
+## 📑 Tools
+- Excel
+- GitHub
+- SQL Server
+- Power BI Desktop
 
 ---
+
+# 📂 Featured Projects
+
+## 📌 Retail Sales Analysis Dashboard
+### 🔹 Tools Used:
+Power BI | SQL | Power Query | DAX
+
+### 🔹 Features:
+- KPI Cards
+- Sales Trend Analysis
+- Region-wise Sales
+- Product Analysis
+- Customer Analysis
+- Profit Margin Analysis
+- Discount Analysis
+
+### 🔹 Key Insights:
+- Technology category generated highest profit
+- Discounts reduced Furniture category profit
+- Consumer segment contributed highest sales
+
+---
+
+## 📌 HR Analytics Dashboard
+### 🔹 Features:
+- Employee Analysis
+- Attrition Analysis
+- Salary Analysis
+- Gender Ratio
+- Department Performance
+
+---
+
+## 📌 SQL Movie Database Project
+### 🔹 SQL Concepts Used:
+- Joins
+- CTEs
+- Dense Rank
+- Window Functions
+- Aggregate Functions
+- Subqueries
+
+---
+
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/krishnababu-bapanapalle
+- LinkedIn: Add Your LinkedIn URL Here
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building dashboards and converting raw data into meaningful business insights 📊
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/krishnapbi
