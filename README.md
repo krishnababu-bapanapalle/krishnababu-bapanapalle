@@ -12,7 +12,9 @@ Passionate about transforming raw data into meaningful business insights using P
 - 📊 Interested in **Data Analytics and Business Intelligence**
 - 💡 Building real-time **Power BI Dashboard Projects**
 - 🎯 Goal: Become a professional **Data Analyst / Power BI Developer**
-- 🌐 Portfolio / LinkedIn: 👉 https://www.linkedin.com/in/krishnapbi
+- 🌐 Portfolio / LinkedIn:
+- GitHub: https://github.com/krishnababu-bapanapalle
+- LinkedIn: https://www.linkedin.com/in/krishnapbi
 
 ---
 
